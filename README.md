@@ -1,4 +1,4 @@
-# EZobfuscator_v0.10_beta
+# EZobfuscator_v0.1.0_beta
 
 ------------
 I. Introduction
