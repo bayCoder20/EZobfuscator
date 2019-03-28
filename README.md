@@ -10,7 +10,7 @@ All comments and empty lines are also removed.  (more languages to be supported)
 II. PC Requirements
 ------------
 OS: Windows (developed/tested on Windows 10 with MS Excel)
-Java: Java 8 or newer  (developed/tested on Java 8)
+	Java: Java 8 or newer  (developed/tested on Java 8)
 	
 ------------
 III. Quick Start Directions
