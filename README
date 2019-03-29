@@ -31,7 +31,7 @@ README.txt			- This file describing program contents and operations
 -------------
 V. Folder List
 -------------
-logs				- REQUIRED - Location of log files, one will be created for each run.
+logs				- REQUIRED - Location of log files.
 
 -------------
 VI. Program Inputs
