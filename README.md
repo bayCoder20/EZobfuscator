@@ -7,6 +7,7 @@ This program is for obfuscating variables in VBA (VB) code making source code mo
 All comments and empty lines are also removed.  (more languages to be supported)
 
 Download Program Here: https://github.com/bayCoder20/EZobfuscator/releases
+
 ------------
 II. PC Requirements
 ------------
