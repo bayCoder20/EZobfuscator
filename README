@@ -1,4 +1,4 @@
-# EZobfuscator_v0.1.0_beta
+EZobfuscator_v0.1.0_beta
 
 ------------
 I. Introduction
@@ -41,15 +41,16 @@ The program home directory is where the location of the obfuscator_vX.XX_beta.ja
 
 Properties File - This file contains the configuration options.
 
-Variable List - This file is used to acquire the list of variable names that will be obfuscated.  Currently, the format of each variable name can be
-read in the file as carriage-return separated values or comma separated values or a combination of both. Any text below this blank line will not effect the operation of the program
-and can be used to store alternate lists and notes. See provided sample files.
+Variable List - This file is used to acquire the list of variable names that will be obfuscated.  Currently, the format of each variable
+name can be read in the file as carriage-return separated values or comma separated values or a combination of both. Any text below this
+blank line will not effect the operation of the program and can be used to store alternate lists and notes. See provided sample files.
 
 -------------
 VII. Program Outputs
 -------------
-The program will output one log file in the "logs" folder.  Each log file will contain a record of the original code, a map list of the variable names matching the obfuscated names, and the obfuscated code.
-Each record inclusion can be toggled true/false as necessary in the configuration options.  
+The program will output one log file in the "logs" folder.  Each log file will contain a record of the original code, a map list of the
+variable names matching the obfuscated names, and the obfuscated code. Each record inclusion can be toggled true/false as necessary 
+in the configuration options.  
 
 -------------
 VIII. Features
