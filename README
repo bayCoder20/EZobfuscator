@@ -88,6 +88,8 @@ Complete "obfuscatorConfig.properties" Settings
 9. Set Option To Output Map Of Obfuscated Variable Names In Log File. (Default is TRUE)
 10. Set Option To Output Original Code In Log File. (Default is TRUE)
 
+![Properties](https://github.com/bayCoder20/EZobfuscator/blob/master/misc/obfuscatorProperties.PNG?raw=true)
+
 -------------
 XI. Program Operation
 -------------
